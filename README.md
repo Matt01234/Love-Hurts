@@ -24,4 +24,7 @@ Week 7 -  Countdown timer and round time was implemented. Animation of both play
 Week 8 - Camera movement was added to follow players and zoom in and out, sound effects were added, and bugs were fixed.
 
 Challenges faced: 
-We were unsure what the goal of the game was. It was initially going to be a street fighter type game though it turned into a more basic fighting game. Combo moves would have taken additional time. At first the second button was going to be a defense. However, we changed it to be a special attack that deals more damage but less spammy. Many scripts had to be redone. Learning the animation was complicated. Many things did not work right with the animation of the sprites and the hit boxes. The characters are cross wired since there was miscommunication on which side the players would be on the arcade cabinet. We were unable to create a leaderboard. The volume slider only affected the button sound effect.
+We were unsure what the goal of the game was. It was initially going to be a street fighter type game though it turned into a more basic fighting game. Combo moves would have taken additional time. At first the second button was going to be a defense. However, we changed it to be a special attack that deals more damage but less spammy. Many scripts had to be redone. Learning the animation was complicated. Many things did not work right with the animation of the sprites and the hit boxes. The characters are cross wired since there was miscommunication on which side the players would be on the arcade cabinet. We were unable to create a leaderboard. The volume slider only affected the button sound effect. 
+
+Extra:
+Video and photos can be downloaded with the code
