@@ -11,7 +11,7 @@ Objectives:
 Each player will fight for Senpai before time runs out. The player that defeats their opponent will win.
 
 How it was made:
-Each player had a movement script that allowed each player to move left, right, jump, and crouch. There was a grounded script which would check to see if the current player was in contact with the ground to prevent infinite jumps. The health script was made to lower the health of the current player every time damage was inflicted. Each player had a hit box collider and a hurt box collider. The hit box always dealt the same damage per frame. However, for the special attack, the hix box was active for more frames compared to the regular attack in order to deal more damage.   
+Each player had a movement script that allowed each player to move left, right, jump, and crouch. There was a grounded script which would check to see if the current player was in contact with the ground to prevent infinite jumps. The health script was made to lower the health of the current player every time damage was inflicted. Each player had a hit box collider and a hurt box collider. The hit box always dealt the same damage per frame. However, for the special attack, the hit box was active for more frames compared to the regular attack in order to deal more damage.   
 
 Weekly goals:
 Week 1 - basic control was added such as moving and jumping (boxes were used as placeholders)
