@@ -31,7 +31,7 @@ The end scenes consist of the winning player and an exit button that either play
 
 If Player 1 wins, the human-dolphin character will take home Senpai.
 
-![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/Player_2_wins_screen.png?raw=true)
+![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/Player_2_wins.png?raw=true)
 
 If Player 2 wins, the human-cat character will take home senpai.
 
