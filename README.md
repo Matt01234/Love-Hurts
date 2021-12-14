@@ -27,11 +27,11 @@ End Scenarios:
 
 The end scenes consist of the winning player and an exit button that either player can select and press to go back to the start screen.
 
-![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/Player_1_Wins.png?raw=true)
+![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/Player_1_wins.png?raw=true)
 
 If Player 1 wins, the human-dolphin character will take home Senpai.
 
-![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/Player_2_Wins_screen.png?raw=true)
+![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/Player_2_wins_screen.png?raw=true)
 
 If Player 2 wins, the human-cat character will take home senpai.
 
