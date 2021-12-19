@@ -5,6 +5,7 @@ Overview:
 Love Hurts is a vaporwave themed multiplayer fighting arcade game which consists of two human-animal hybrid characters who fight for their Senpai’s love. The character on the left is the human-dolphin hybrid, and the character on the right is the human-cat hybrid. Each player will battle in head-to-head combat until one of the characters is victorious or the timer runs out. 
 
 ![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/Go_Screen.png?raw=true)
+![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/ArcadeCabinet.jpg?raw=true)
 
 Watch Trailer Here: 
 https://youtube/LXfIz0JFleE
