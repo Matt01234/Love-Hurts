@@ -8,7 +8,7 @@ Love Hurts is a vaporwave themed multiplayer fighting arcade game which consists
 ![alt text](https://github.com/Matt01234/Love-Hurts/blob/main/ArcadeCabinet.jpg?raw=true)
 
 Watch Trailer Here: 
-https://youtube/LXfIz0JFleE
+https://www.youtube.com/watch?v=LXfIz0JFleE
 
 Controls: 
 
